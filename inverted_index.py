@@ -1,5 +1,5 @@
 """
-A program that builds an index, and inverted index, and a map of tf-idf scores
+A program that builds an index, an inverted index, and a map of tf-idf scores
 for a given document collection.
 """
 
